@@ -1,3 +1,3 @@
 # NLW
 
-NLW eSports
+https://raquelabensur.github.io/NLW-eSports-Explorer/
